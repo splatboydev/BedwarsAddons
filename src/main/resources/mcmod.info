@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "${name}",
+    "description": "Hypixel Bedwars Utilities.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://splatboy-dev.ml",
+    "updateUrl": "",
+    "authorList": [
+      "Splatboy Dev"
+    ],
+    "credits": "The people over at Oracle & The Forge & FML Team",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
